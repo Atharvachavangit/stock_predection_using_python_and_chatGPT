@@ -194,4 +194,4 @@ if user_input:
             })
 
     except Exception as e:
-        st.error(f"❌ Error: {e}")
+        st.error(f" Error: {e}")
